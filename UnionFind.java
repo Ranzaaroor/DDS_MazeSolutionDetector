@@ -1,7 +1,14 @@
 
 /** 
  * Implementation of the Union-Find ADT. 
- */ 
+ */
+        /*
+           Assignment number : 8
+           File Name : UnionFind.java
+           Name: Ran Zaaroor
+           Student ID : 209374040
+           Email : Ran.zaaroor@gmail.com
+       */
 public class UnionFind { 
  
    private static final int ROOT = 0; 
