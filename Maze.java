@@ -7,6 +7,13 @@ import java.awt.Color;
 /** 
  * A class for decomposing images into connected components. 
  */ 
+        /*
+           Assignment number : 8
+           File Name : Maze.java
+           Name: Ran Zaaroor
+           Student ID : 209374040
+           Email : Ran.zaaroor@gmail.com
+       */
 public class Maze { 
  
    private UnionFind uf; 
